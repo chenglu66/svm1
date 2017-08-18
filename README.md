@@ -25,6 +25,7 @@
 ![image](https://github.com/chenglu66/svm1/blob/master/PCA降维.png)
 从图中也可以看出两者的相似性
 下面数据这块是完成了，怎么选择模型，我想与分类器距离越远则说明间隙越大，那么直接用距离做分类的，有SVM而且svm可以处理非线性数据。
+其实LR也可以，不过效果不如svm表现的好。
 下面就是调参数，比较简单，主要难在数据的提取。
 下面是预测数据的曲线。
 ![image](https://github.com/chenglu66/svm1/blob/master/电压与间隙预测值的关系.png)
