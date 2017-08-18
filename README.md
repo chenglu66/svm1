@@ -9,5 +9,5 @@
 从图中可以看出电压和间隙应该是一中非线性的关系，从下面一幅图中可以明显看出整个电压信号是呈周期过来的。因为采样10w个信号不同的信号仅有128个
 ![image](https://github.com/chenglu66/svm1/blob/master/正常加工电压.jpg)
 下面是该波形的还原，因为电源的频率较高所以采样失真比较严重。
-![image](https://github.com/chenglu66/svm1/blob/master/正常加工电压.jpg)
+![image](https://github.com/chenglu66/svm1/blob/master/%E7%94%B5%E5%8E%8B%E8%BF%98%E5%8E%9F%E5%9B%BE.png)
 
