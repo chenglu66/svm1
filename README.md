@@ -32,6 +32,8 @@
 ![image](https://github.com/chenglu66/svm1/blob/master/电压与间隙预测值的关系.png)
 实物图对比
 未加入控制：
+
 ![image](https://github.com/chenglu66/svm1/blob/master/%E5%8A%A0%E5%B7%A52.jpg)
 加入控制后可以看出整个加工工件较为均匀，不存在刚开始的那种上头宽中间窄的效果。
+
 ![image](https://github.com/chenglu66/svm1/blob/master/777777.jpg)
